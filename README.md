@@ -8,10 +8,16 @@ Feel free to fork and submit a [pull request](https://help.github.com/articles/a
 
 Every new variant should be a new file. We need a convention for naming those files. I propose the following:
 
-'' [steemit username]-[number]-steemit-mascot.svg
+'''
+[steemit username]-[number]-steemit-mascot.svg
+'''
+
 Example:
 
-'' granin-01-steemit-mascot.svg
+'''
+granin-01-steemit-mascot.svg
+'''
+
 This way we know who is proposing what and people can submit lots of different variants.
 
 Contests must have a timeframe, 31 October 11AM PST will be our hard lock date\time. 
