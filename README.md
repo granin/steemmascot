@@ -1,10 +1,37 @@
 # Open Souring Design of Steem mascot, participate to get your reward in Steem Dollars!
 
-Feel free to modify this variant and push your changes, I'll post all proposed variants on steemit for next phase of contest.
+#UPDATE:
+
+This is repo where you can submit your files or update mine keeping original version and adding your name of steem account next to yours.
+
+Feel free to fork and submit a [pull request](https://help.github.com/articles/about-pull-requests/) when you are ready"
+
+Every new variant should be a new file. We need a convention for naming those files. I propose the following:
+
+'' [steemit username]-[number]-steemit-mascot.svg
+Example:
+
+'' granin-01-steemit-mascot.svg
+This way we know who is proposing what and people can submit lots of different variants.
+
+Contests must have a timeframe, 31 October 11AM PST will be our hard lock date\time. 
 
 # Why mascot of Steem should be simple enough to be editable by everyone
 
 I’m advocate of open source design, and here is source of my submission to 
+
+
+I have a cool idea! **Why don’t I make another contest in case my variant wins?** 
+
+I promise to distribute whatever  I win to winners of my new contest, that will follow initial one. Contesters can change the original mascot. Anyone will be able to this as it's just  moving around and resizing of 6 circles. As a result, we will have a lot of different  images with our mascot and really great one to use as a default one. 
+
+1. The mascot should be alive and needs a lot of images with variations of  for one same character to use in different situations (emotions, composition, etc). ​
+1. Good design takes time. I don't like contests we had till now just because there is no modification of initial dirty drafts people post for the contest. The final result should be refined. It takes time. 
+
+
+Why don't we use time of all of the Steemers to it shot such contest ?   
+
+Steemers on our [Telegram chat](https://telegram.me/steem_en) voted for this idea, so **I promise to share my prize between all of you, who will contribute by changing my  initial design, either here or on GitHub** if I win.
 
 [Mascot Contest for Steemit]( https://steemit.com/steemit/@knozaki2015/mascot-contest-for-steemit-calling-all-designers#@sharker/re-knozaki2015-mascot-contest-for-steemit-calling-all-designers-20160919t102449211z "Mascot Contest for Steemit")
 
@@ -30,11 +57,6 @@ This one was literally chosen by LogoLounge as the best logo of the year!
 
 [![Logo made of arcs](http://logodiver.ru/wp-content/uploads/2014/02/fishmarket-circles.jpg "Logo made of arcs")](http://logodiver.ru/wp-content/uploads/2014/02/fishmarket-circles.jpg "Logo made of arcs")
 
-So If you are interested in making a decision on how the majority will perceive SteemIt for years to come, vote for a mascot here, the contest is opened. [Vote or submit your version here.](https://steemit.com/steemit/@knozaki2015/mascot-contest-for-steemit-calling-all-designers#@sharker/re-knozaki2015-mascot-contest-for-steemit-calling-all-designers-20160919t102449211z "Vote or submit your version in comments to this Steemit post while submission is still opened .")
-
-I’ll be happy to see more options based on my source!
-
-**UPDATE**
 
 I have a cool idea! **Why don’t I make another contest in case my variant wins?** 
 
@@ -48,4 +70,6 @@ Why don't we use time of all of the Steemers to it shot such contest ?
 
 Steemers on our [Telegram chat](https://telegram.me/steem_en) voted for this idea, so **I promise to share my prize between all of you, who will contribute by changing my  initial design, either here or on GitHub** if I win.
 
-For now here is my repo where you can submit your files or update mine keeping original version and adding your name of steem account next to yours:  https://github.com/granin/steemmascot
+So If you are interested in making a decision on how the majority will perceive Steemit for years to come, vote for a mascot here, the contest is opened, if you want to have a chance to win my prize, just help me win following this link and upvoting my comment before Sept 24. [Vote or submit your version here.](https://steemit.com/steemit/@knozaki2015/mascot-contest-for-steemit-calling-all-designers#@sharker/re-knozaki2015-mascot-contest-for-steemit-calling-all-designers-20160919t102449211z "Vote or submit your version in comments to this Steemit post while submission is still opened .")
+
+I’ll be happy to see more options based on my source!
