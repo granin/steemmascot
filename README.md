@@ -34,9 +34,6 @@ So If you are interested in making a decision on how the majority will perceive 
 
 I’ll be happy to see more options based on my source!
 
-Fernando develCuy, [20 Sep 2016 13:51]: 
-My first reblog goes to your mascot design @granin!
-
 **UPDATE**
 
 I have a cool idea! **Why don’t I make another contest in case my variant wins?** 
